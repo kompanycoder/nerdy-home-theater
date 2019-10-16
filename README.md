@@ -3,8 +3,8 @@
 - It will undergo numerous changes from good to terrible to :green_heart: Great.
 - More advanced features are always welcome.
 
-#### on-completion, it should:
-    [ ] Support viewing of videos from th comfort of your home.
+#### On-completion, it should:
+    [ ] Support viewing of videos from the comfort of your home.
     [ ] Support viewing of pictures on high resolution.
     [ ] Allow remote connection and control of the system.
     [ ] Support multiple user experiences based on profiles.

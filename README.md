@@ -1,6 +1,7 @@
 ## 💻  Nerdy-home-theater 📻
-    This is a project for those who wish to convert their old Pcs and unused Resources to functional high-tech interactive systems.
-    It will undergo numerous changes from good to terrible to :green_heart: Great.
+- This is a project for those who wish to convert their old Pcs and unused Resources to functional high-tech interactive systems.
+- It will undergo numerous changes from good to terrible to :green_heart: Great.
+- More advanced features are always welcome.
 
 #### on-completion, it should:
     [ ] Support viewing of videos from th comfort of your home.
@@ -10,5 +11,5 @@
     [ ] Save user history and preferences.
     [ ] Allow dectection of different Os mods and adjust settings accordingly.
 
-##### 🎱 Remember path to greatness is not in someone-elses' opinionated view.
+##### 🎱 Remember: The path to greatness is not in someone-elses' opinionated view.
 ##### 😬 Dont just open Doors. Bazooka your way through them. 🏌
